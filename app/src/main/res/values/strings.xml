@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App3</string>
+
+    <string name="what">What!</string>
+    <string name="apa">Apa!</string>
+    <string name="ing">Translate</string>
+    <string name="tombol_terjemah">Artinya</string>
+    <string name="action_settings">Settings</string>
+</resources>
